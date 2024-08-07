@@ -1,0 +1,18 @@
+Variable,R_squared
+Housing_units,0.8325605776159369
+Median_rooms,0.8320040543330605
+Total_population,0.8306929709243642
+Median_age,0.8325335089196192
+Vacant_housing_units,0.8325605776159369
+Owner_occupied,0.8325605776159369
+Renter_occupied,0.8325605776159368
+Total_Household,0.8325605776159369
+Median_Household_income,0.8325517831097047
+Median_Family_income,0.8292298779378203
+PerCapita_income,0.8291560950284763
+Nonfamily_households,0.8325605776159369
+Median_nonfamily_income,0.8325603775436694
+Median_Gross_Rent,0.7995334834359511
+Gini_Index,0.8319660949484065
+Poverty_Status,0.8314890824934997
+Unemployment_ 16YearsAndOver,0.8299815990742174
